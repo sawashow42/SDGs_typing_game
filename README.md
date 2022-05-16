@@ -1,1 +1,2 @@
 # SDGs_typing_game
+大学の授業で、processingを使ってSDGsの17の世界的目標を題材としたタイピングゲームを制作しました。
